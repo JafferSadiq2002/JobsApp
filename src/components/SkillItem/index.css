@@ -1,0 +1,11 @@
+.skill-container {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    list-style-type: none;
+  }
+  .skill-image {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
